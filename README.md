@@ -1,6 +1,6 @@
 <div align="right">
     language : English /
-    <a title="Chinese" herf="/README_ZH.md">中文</a></a>
+    <a title="Chinese" herf="https://github.com/A-pursuer/class-emblem-for-hfut-dynamic-engineering-mechanics-20/README_ZH.md">中文</a></a>
 </div>
 <h1 align="center"> The design of Mechanics Class Emblem </h1>
 
@@ -10,7 +10,7 @@
 
 
 
-[![](https://img.shields.io/badge/%E5%90%88%E8%82%A5%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6-%40hfut-blue?style=flat-square)](www.hfut.edu.cn) [![](https://img.shields.io/badge/%E5%B7%A5%E7%A8%8B%E5%8A%9B%E5%AD%A6%E7%B3%BB-%40hfut-orange/style=plastic)](http://em.hfut.edu.cn/) [![](https://img.shields.io/badge/%E5%B7%A5%E4%BD%9C%E7%8E%AF%E5%A2%83-%40Photoshop%20and %20 cad-red)](https://www.adobe.com/products/photoshop.html?promoid=RBS7NL7F) [![](https://camo.githubusercontent.com/773b553badb8b787a302f8ec34b7ca37f67e19efa63806678c5c8795c47303e4/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f6a65727279633132372f6865786f2d7468656d652d627574746572666c793f636f6c6f723d464635353331)](https://www.apache.org/licenses/LICENSE-2.0)
+[![](https://img.shields.io/badge/%E5%90%88%E8%82%A5%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6-%40hfut-blue?style=flat-square)](www.hfut.edu.cn) [![](https://img.shields.io/badge/%E5%B7%A5%E7%A8%8B%E5%8A%9B%E5%AD%A6%E7%B3%BB-%40hfut-orange/style=plastic)](http://em.hfut.edu.cn/) [![](https://img.shields.io/badge/%E5%B7%A5%E4%BD%9C%E7%8E%AF%E5%A2%83-Photoshop%20and%20cad-orange)](https://www.adobe.com/products/photoshop.html?promoid=RBS7NL7F) [![](https://img.shields.io/badge/license-Apache%202-red)](https://www.apache.org/licenses/LICENSE-2.0)
 
 
 
@@ -18,7 +18,7 @@
 
 
 
-> *   :white_check_mark:For each historical iteration version, please see [Here](/history.md).
+> *   :white_check_mark:For each historical iteration version, please see [Here](https://github.com/A-pursuer/class-emblem-for-hfut-dynamic-engineering-mechanics-20/history.md).
 
 
 
@@ -63,8 +63,6 @@
 
 
 
----
-
 
 
 
@@ -82,7 +80,9 @@
   *  Advantages：Can continuously introduce new ideas and ideas to continuously optimize the work.
   *  Disadvantages：If the design is not determine to meet the conditions first, the iteraction cycle is long, time-consuing, and not suitable for obsessive disorder like mine :joy:.
 
----
+
+
+
 
 
 
@@ -172,6 +172,8 @@
     * <span style='font-size:25px;'>&#128073;</span>"Youth abounds in vitality. When encountering deep forests, they can carve out flat ground, when encountering wilderness, they can plant trees, when encountering desert, they can dig wells and springs."  -Lu Xun. The center is driven by force, and there is no end to life.
 
     * <span style='font-size:25px;'>&#128073;</span>Unity of Nature and Man: "The Tao generates one, one generates two, two generates three, and three generates all things."  -The Tao Te Ching.  Taking everything as a dividing unit, it adopts a symmetrical structural design.
+  
+  
 
 ---
 
@@ -193,8 +195,6 @@
         *  The intention to use fluids and solids echoes professional characteristics.
 
 
-
----
 
 
 
@@ -221,7 +221,7 @@ git push origin test //push test to github
 
 
 
----
+
 
 
 
@@ -248,5 +248,7 @@ git push origin test //push test to github
 
 <h2 align="center"> <span style='font-size:40px;'>&#127915;</span>License </h2> 
 
- [![](https://camo.githubusercontent.com/773b553badb8b787a302f8ec34b7ca37f67e19efa63806678c5c8795c47303e4/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f6a65727279633132372f6865786f2d7468656d652d627574746572666c793f636f6c6f723d464635353331)](https://www.apache.org/licenses/LICENSE-2.0)
+[![](https://img.shields.io/badge/license-Apache%202-red)](https://www.apache.org/licenses/LICENSE-2.0)
+
+
 

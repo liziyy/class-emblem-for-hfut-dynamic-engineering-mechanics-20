@@ -1,6 +1,6 @@
 <div align="right">
     language : 中文 /
-    <a title="English" herf="/README.md">English</a></a>
+    <a title="English" herf="https://github.com/A-pursuer/class-emblem-for-hfut-dynamic-engineering-mechanics-20/README.md">English</a></a>
 </div>
 <h1 align="center"> 力学班徽设计</h1>
 
@@ -10,7 +10,7 @@
 
 
 
-[![](https://img.shields.io/badge/%E5%90%88%E8%82%A5%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6-%40hfut-blue?style=flat-square)](www.hfut.edu.cn) [![](https://img.shields.io/badge/%E5%B7%A5%E7%A8%8B%E5%8A%9B%E5%AD%A6%E7%B3%BB-%40hfut-orange/style=plastic)](http://em.hfut.edu.cn/) [![](https://img.shields.io/badge/%E5%B7%A5%E4%BD%9C%E7%8E%AF%E5%A2%83-%40Photoshop%20and%20cad-red)](https://www.adobe.com/products/photoshop.html?promoid=RBS7NL7F) [![](https://camo.githubusercontent.com/773b553badb8b787a302f8ec34b7ca37f67e19efa63806678c5c8795c47303e4/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f6a65727279633132372f6865786f2d7468656d652d627574746572666c793f636f6c6f723d464635353331)](https://www.apache.org/licenses/LICENSE-2.0)
+[![](https://img.shields.io/badge/%E5%90%88%E8%82%A5%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6-%40hfut-blue?style=flat-square)](www.hfut.edu.cn) [![](https://img.shields.io/badge/%E5%B7%A5%E7%A8%8B%E5%8A%9B%E5%AD%A6%E7%B3%BB-%40hfut-orange/style=plastic)](http://em.hfut.edu.cn/) [![](https://img.shields.io/badge/%E5%B7%A5%E4%BD%9C%E7%8E%AF%E5%A2%83-Photoshop%20and%20cad-orange)](https://www.adobe.com/products/photoshop.html?promoid=RBS7NL7F) [![](https://img.shields.io/badge/license-Apache%202-red)](https://www.apache.org/licenses/LICENSE-2.0)
 
 
 
@@ -20,7 +20,7 @@
 
 <div align="center"><span style='font-size:100px;'>&#127774;</span></div>
 
-> *  :white_check_mark:各历史迭代版本请看[这里](/history.md).
+> *  :white_check_mark:各历史迭代版本请看[这里](https://github.com/A-pursuer/class-emblem-for-hfut-dynamic-engineering-mechanics-20/history.md).
 
 
 
@@ -48,8 +48,6 @@
 
 
 
----
-
 
 
 <h2 align="center"> <span style='font-size:40px;'>&#128071;</span>Sunrise <span style='font-size:25px;'>&#127774;</span></h2> 
@@ -67,7 +65,7 @@
 
 
 
----
+
 
 
 
@@ -86,7 +84,7 @@
 
 
 
----
+
 
 
 
@@ -193,6 +191,8 @@
 
 
 
+
+
 <h2 align="center"> <span style='font-size:40px;'>&#9889;</span>如何参与设计 </h2> 
 
 
@@ -214,13 +214,21 @@ git push origin test //推送新分支到github上
 
 *  提交你[宝贵的意见](https://github.com/A-pursuer/class-emblem-for-hfut-dynamic-engineering-mechanics-20/issues)
 
+
+
+
+
 <h2 align="center"> <span style='font-size:40px;'>&#127801;</span>总结 </h2> 
 
 
 
 > sunrise的设计一共历时373天3时54分，于2022.12.17 21:07 正式结题。
 
+
+
 > ![record](http://pictures.apursuer.top/pictures/202303181750858.jpg)
+
+
 
 > * 心情：~~无比畅快，这辈子都不想再设计班徽了~~
 >
@@ -233,5 +241,5 @@ git push origin test //推送新分支到github上
 
 <h2 align="center"> <span style='font-size:40px;'>&#127915;</span>License </h2> 
 
- [![](https://camo.githubusercontent.com/773b553badb8b787a302f8ec34b7ca37f67e19efa63806678c5c8795c47303e4/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f6a65727279633132372f6865786f2d7468656d652d627574746572666c793f636f6c6f723d464635353331)](https://www.apache.org/licenses/LICENSE-2.0)
+[![](https://img.shields.io/badge/license-Apache%202-red)](https://www.apache.org/licenses/LICENSE-2.0)
 
