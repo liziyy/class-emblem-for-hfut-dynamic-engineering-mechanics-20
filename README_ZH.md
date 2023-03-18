@@ -6,6 +6,7 @@
 
 
 
+
 <h1 align="center"> 力学班徽设计</h1>
 
 
@@ -105,78 +106,88 @@
 * <span style='font-size:40px;'>&#127775;</span>**整体设计思路**：
   
   * <span style='font-size:30px;'>&#128293;</span>化整为零, 以动代静, 生生不息, 天人合一。
+  
   * <span style='font-size:30px;'>&#128293;</span>以力为驱，众力齐驱，周而复始，生生不息。
+  
   * <span style='font-size:30px;'>&#128293;</span>红色传承血脉，革命精神永存，主旋律坚定不移与党同心。
-  *  <span style='font-size:30px;'>&#128293;</span>爱校荣校，邓公题字，不忘初心，牢记使命，踔厉奋发，勇毅前行。
-    
-    *  <span style='font-size:25px;'>&#128073;</span>化整为零: 在先前的设计版本中, 班徽的整体结构为封闭几何图形, 之后外形采用齿轮设计思路, 将齿轮分解为四个小部分.为什么要分成四个小部分，看第四点，再看看下面的图形。
-    
-      *  ```html
-         <!DOCTYPE html>
-         <html lang="zh-CN">
-             <head>
-                 <meta charset="utf-8">
-                 <meta http-equiv="X-UA-Compatible" content="IE=edge">
-                 <meta name="viewport" content="width=device-width, initial-scale=1">
-                 <meta name="author" content="Cc">
-                 <title>四叶草</title>
-             </head>
-             <style>
-                 *{margin: 0;padding: 0;}
-                 html,body{display: flex;width: 100%;height: 100%;background: #f7f7f7;align-items: center;}
-                 .cloverBox{
-                     position: absolute;
-                     top: 50%;
-                     margin-top: -200px;
-                     left: 50%;
-                     margin-left: -200px;
-                     width: 400px;
-                     height: 400px;
-                     transform: rotate(0deg);
-                     /* 动画属性 */
-                     animation: round 10s linear infinite forwards;
-                 }
-                 .cloverBox:hover{
-                     animation-play-state:paused 
-                 }
-                 @keyframes round{
-                     from{
-                         transform: rotate(0deg);
-                     }
-                     to
-                     {
-                         transform: rotate(360deg);
-                     }
-                 }
-                 .clover{
-                     width: 50%;
-                     height: 50%;
-                     float: left;
-                     transition: all .6s;
-                     cursor: pointer;
-                 }
-                 .clover:hover{
-                     transform: scale(0.9);
-                 }
-                 .c1{background: #A82125;border-radius: 0 50% 0 50%;}
-                 .c2{background: #DFD03E;border-radius: 50% 0 50% 0;}
-                 .c3{background: #88DD3E;border-radius: 50% 0 50% 0;}
-                 .c4{background: #1EA8D7;border-radius: 0 50% 0 50%;}
-             </style>
-             <body>
-                 <div class="cloverBox">
-                     <div class="clover c1"></div>
-                     <div class="clover c2"></div>
-                     <div class="clover c3"></div>
-                     <div class="clover c4"></div>
-                 </div>
-             </body>
-         </html>
-         ```
+  
+  * <span style='font-size:30px;'>&#128293;</span>爱校荣校，邓公题字，不忘初心，牢记使命，踔厉奋发，勇毅前行。
+  
+    *  <span style='font-size:25px;'>&#128073;</span>化整为零: 在先前的设计版本中, 班徽的整体结构为封闭几何图形, 之后外形采用齿轮设计思路, 将齿轮分解为四个小部分.为什么要分成四个小部分，看第四点，再看看附加的代码。
       *  会HTML的朋友运行一下就明白了我的意思了。
-    * <span style='font-size:25px;'>&#128073;</span>以动代静: 整体设计采用**动态**美感设计, 与传统的静态徽章相比独树一帜, 特征:辐条, 齿轮, 转轴。做个gif图让班徽绕轴中线转起来就一目了然了。
-    * <span style='font-size:25px;'>&#128073;</span>生生不息: "青年所多的是生力，遇见深林，可以辟成平地的，遇见旷野，可以栽种树木的，遇见沙漠，可以开掘井泉的."  -鲁迅   **中心由力驱动, 周而复始, 生生不息**。
-    * <span style='font-size:25px;'>&#128073;</span>天人合一: "道生一，一生二，二生三，三生万物" --《道德经》。 取万物为分割单位, 采用对称结构设计.  **结合了中华的传统文化进行设计**。
+  
+    *  <span style='font-size:25px;'>&#128073;</span>以动代静: 整体设计采用**动态**美感设计, 与传统的静态徽章相比独树一帜, 特征:辐条, 齿轮, 转轴。做个gif图让班徽绕轴中线转起来就一目了然了。
+    *  <span style='font-size:25px;'>&#128073;</span>生生不息: "青年所多的是生力，遇见深林，可以辟成平地的，遇见旷野，可以栽种树木的，遇见沙漠，可以开掘井泉的."  -鲁迅   **中心由力驱动, 周而复始, 生生不息**。
+    *  <span style='font-size:25px;'>&#128073;</span>天人合一: "道生一，一生二，二生三，三生万物" --《道德经》。 取万物为分割单位, 采用对称结构设计.  **结合了中华的传统文化进行设计**。
+  
+    
+  
+  
+  
+  ```html
+  <!DOCTYPE html>
+  <html lang="zh-CN">
+      <head>
+          <meta charset="utf-8">
+          <meta http-equiv="X-UA-Compatible" content="IE=edge">
+          <meta name="viewport" content="width=device-width, initial-scale=1">
+          <meta name="author" content="Cc">
+          <title>四叶草</title>
+      </head>
+      <style>
+          *{margin: 0;padding: 0;}
+          html,body{display: flex;width: 100%;height: 100%;background: #f7f7f7;align-items: center;}
+          .cloverBox{
+              position: absolute;
+              top: 50%;
+              margin-top: -200px;
+              left: 50%;
+              margin-left: -200px;
+              width: 400px;
+              height: 400px;
+              transform: rotate(0deg);
+              /* 动画属性 */
+              animation: round 10s linear infinite forwards;
+          }
+          .cloverBox:hover{
+              animation-play-state:paused 
+          }
+          @keyframes round{
+              from{
+                  transform: rotate(0deg);
+              }
+              to
+              {
+                  transform: rotate(360deg);
+              }
+          }
+          .clover{
+              width: 50%;
+              height: 50%;
+              float: left;
+              transition: all .6s;
+              cursor: pointer;
+          }
+          .clover:hover{
+              transform: scale(0.9);
+          }
+          .c1{background: #A82125;border-radius: 0 50% 0 50%;}
+          .c2{background: #DFD03E;border-radius: 50% 0 50% 0;}
+          .c3{background: #88DD3E;border-radius: 50% 0 50% 0;}
+          .c4{background: #1EA8D7;border-radius: 0 50% 0 50%;}
+      </style>
+      <body>
+          <div class="cloverBox">
+              <div class="clover c1"></div>
+              <div class="clover c2"></div>
+              <div class="clover c3"></div>
+              <div class="clover c4"></div>
+          </div>
+      </body>
+  </html>
+  ```
+  
+  
 
 
 

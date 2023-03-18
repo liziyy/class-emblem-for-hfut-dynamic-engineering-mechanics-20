@@ -110,79 +110,82 @@
 
   * <span style='font-size:30px;'>&#128293;</span>"Love and honor the school, Deng's inscription: never forget your original intention, bear in mind your mission, work hard, and forge ahead bravely"
 
-    *  <span style='font-size:25px;'>&#128073;</span>Breaking up the whole into parts: In the previous design version, the overall structure of emblem was a closed geometric figure, and the shape was divided into four small parts using the gear design idea. Why should we divide the gear into four small parts? Look at the fourth point, and then look at the following figure.
-
-      *  ```html
-        <!DOCTYPE html>
-        <html lang="zh-CN">
-            <head>
-                <meta charset="utf-8">
-                <meta http-equiv="X-UA-Compatible" content="IE=edge">
-                <meta name="viewport" content="width=device-width, initial-scale=1">
-                <meta name="author" content="Cc">
-                <title>四叶草</title>
-            </head>
-            <style>
-                *{margin: 0;padding: 0;}
-                html,body{display: flex;width: 100%;height: 100%;background: #f7f7f7;align-items: center;}
-                .cloverBox{
-                    position: absolute;
-                    top: 50%;
-                    margin-top: -200px;
-                    left: 50%;
-                    margin-left: -200px;
-                    width: 400px;
-                    height: 400px;
-                    transform: rotate(0deg);
-                    /* 动画属性 */
-                    animation: round 10s linear infinite forwards;
-                }
-                .cloverBox:hover{
-                    animation-play-state:paused 
-                }
-                @keyframes round{
-                    from{
-                        transform: rotate(0deg);
-                    }
-                    to
-                    {
-                        transform: rotate(360deg);
-                    }
-                }
-                .clover{
-                    width: 50%;
-                    height: 50%;
-                    float: left;
-                    transition: all .6s;
-                    cursor: pointer;
-                }
-                .clover:hover{
-                    transform: scale(0.9);
-                }
-                .c1{background: #A82125;border-radius: 0 50% 0 50%;}
-                .c2{background: #DFD03E;border-radius: 50% 0 50% 0;}
-                .c3{background: #88DD3E;border-radius: 50% 0 50% 0;}
-                .c4{background: #1EA8D7;border-radius: 0 50% 0 50%;}
-            </style>
-            <body>
-                <div class="cloverBox">
-                    <div class="clover c1"></div>
-                    <div class="clover c2"></div>
-                    <div class="clover c3"></div>
-                    <div class="clover c4"></div>
-                </div>
-            </body>
-        </html>
-        ```
-
+    *  <span style='font-size:25px;'>&#128073;</span>Breaking up the whole into parts: In the previous design version, the overall structure of emblem was a closed geometric figure, and the shape was divided into four small parts using the gear design idea. Why should we divide the gear into four small parts? Look at the fourth point, and then look at the following code.
       *  When you run the above HTML code, you will grasp my ideas.
-
+      
     * <span style='font-size:25px;'>&#128073;</span>Dynamic instead of static: The overall design adopts dynamic aesthetic design, which is unique compared to traditional static badges. Features: spokes, gears, and shafts.
-
+    
     * <span style='font-size:25px;'>&#128073;</span>"Youth abounds in vitality. When encountering deep forests, they can carve out flat ground, when encountering wilderness, they can plant trees, when encountering desert, they can dig wells and springs."  -Lu Xun. The center is driven by force, and there is no end to life.
-
+    
     * <span style='font-size:25px;'>&#128073;</span>Unity of Nature and Man: "The Tao generates one, one generates two, two generates three, and three generates all things."  -The Tao Te Ching.  Taking everything as a dividing unit, it adopts a symmetrical structural design.
   
+
+
+
+
+
+```html
+<!DOCTYPE html>
+<html lang="zh-CN">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="author" content="Cc">
+        <title>四叶草</title>
+    </head>
+    <style>
+        *{margin: 0;padding: 0;}
+        html,body{display: flex;width: 100%;height: 100%;background: #f7f7f7;align-items: center;}
+        .cloverBox{
+            position: absolute;
+            top: 50%;
+            margin-top: -200px;
+            left: 50%;
+            margin-left: -200px;
+            width: 400px;
+            height: 400px;
+            transform: rotate(0deg);
+            /* 动画属性 */
+            animation: round 10s linear infinite forwards;
+        }
+        .cloverBox:hover{
+            animation-play-state:paused 
+        }
+        @keyframes round{
+            from{
+                transform: rotate(0deg);
+            }
+            to
+            {
+                transform: rotate(360deg);
+            }
+        }
+        .clover{
+            width: 50%;
+            height: 50%;
+            float: left;
+            transition: all .6s;
+            cursor: pointer;
+        }
+        .clover:hover{
+            transform: scale(0.9);
+        }
+        .c1{background: #A82125;border-radius: 0 50% 0 50%;}
+        .c2{background: #DFD03E;border-radius: 50% 0 50% 0;}
+        .c3{background: #88DD3E;border-radius: 50% 0 50% 0;}
+        .c4{background: #1EA8D7;border-radius: 0 50% 0 50%;}
+    </style>
+    <body>
+        <div class="cloverBox">
+            <div class="clover c1"></div>
+            <div class="clover c2"></div>
+            <div class="clover c3"></div>
+            <div class="clover c4"></div>
+        </div>
+    </body>
+</html>
+```
 
 
 
