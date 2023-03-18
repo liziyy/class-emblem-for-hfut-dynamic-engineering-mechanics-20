@@ -1,6 +1,6 @@
 <div align="right">
     language : 中文 /
-    <a title="English" herf="https://github.com/A-pursuer/class-emblem-for-hfut-dynamic-engineering-mechanics-20/README.md">English</a></a>
+    <a title="English" herf="https://github.com/A-pursuer/class-emblem-for-hfut-dynamic-engineering-mechanics-20/README.md">English</a>
 </div>
 <h1 align="center"> 力学班徽设计</h1>
 
@@ -10,7 +10,11 @@
 
 
 
-[![](https://img.shields.io/badge/%E5%90%88%E8%82%A5%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6-%40hfut-blue?style=flat-square)](www.hfut.edu.cn) [![](https://img.shields.io/badge/%E5%B7%A5%E7%A8%8B%E5%8A%9B%E5%AD%A6%E7%B3%BB-%40hfut-orange/style=plastic)](http://em.hfut.edu.cn/) [![](https://img.shields.io/badge/%E5%B7%A5%E4%BD%9C%E7%8E%AF%E5%A2%83-Photoshop%20and%20cad-orange)](https://www.adobe.com/products/photoshop.html?promoid=RBS7NL7F) [![](https://img.shields.io/badge/license-Apache%202-red)](https://www.apache.org/licenses/LICENSE-2.0)
+
+
+[![](https://img.shields.io/badge/%E5%90%88%E8%82%A5%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6-%40hfut-blue?style=flat-square)](hfut.edu.cn) [![](https://img.shields.io/badge/%E5%B7%A5%E7%A8%8B%E5%8A%9B%E5%AD%A6%E7%B3%BB-%40hfut-orange/style=plastic)](http://em.hfut.edu.cn/) [![](https://img.shields.io/badge/%E5%B7%A5%E4%BD%9C%E7%8E%AF%E5%A2%83-Photoshop%20and%20cad-orange)](https://www.adobe.com/products/photoshop.html?promoid=RBS7NL7F) [![](https://img.shields.io/badge/license-Apache%202-red)](https://www.apache.org/licenses/LICENSE-2.0)
+
+
 
 
 
@@ -21,6 +25,8 @@
 <div align="center"><span style='font-size:100px;'>&#127774;</span></div>
 
 > *  :white_check_mark:各历史迭代版本请看[这里](https://github.com/A-pursuer/class-emblem-for-hfut-dynamic-engineering-mechanics-20/history.md).
+
+
 
 
 
@@ -55,12 +61,12 @@
 ![banhui](http://pictures.apursuer.top/pictures/%E5%8A%9B%E5%AD%A6%E7%8F%AD%E5%BE%BD.png?e=1678801973&token=k8tlA2hMYXy45tZjwaM2QgpBsJI1cIbtRsGybux_:hdFs_MGcjXalv-hTpjbV_CuwQcE=)
 
 *  <span style='font-size:40px;'>&#127744;</span>**一些必要的说明和解释**： 
-  *  ==外形==是经过对称分割过的**齿轮**。
-  *  ==中轴心==是力学的**“力”字。**
-  *  ==内外轴壁中的==是**36个工字**（为什么要用36个可以去问问班长），==~==你可以抽象地理解为手拉着手。
-  *  ==连接内外轴壁的==是辐条，你可以抽象地理解为传力作用。
-  *  ==字体==采用AI生成的**邓体**，建议和校名的字体做个对比。
-  *  为什么要用==sunrise==作为设计名称，你拿班徽和<span style='font-size:30px;'>&#127774;</span>比比看就知道了。
+  *  `外形`是经过对称分割过的**齿轮**。
+  *  `中轴心`是力学的**“力”字。**
+  *  `内外轴壁中的`是**36个工字**（为什么要用36个可以去问问班长），`~`你可以抽象地理解为手拉着手。
+  *  `连接内外轴壁的`是辐条，你可以抽象地理解为传力作用。
+  *  `字体`采用AI生成的**邓体**，建议和校名的字体做个对比。
+  *  为什么要用`sunrise`作为设计名称，你拿班徽和<span style='font-size:30px;'>&#127774;</span>比比看就知道了。
   *  详情请见**作品设计思路**。
 
 
@@ -170,13 +176,17 @@
 
 
 
+
+
 ---
 
 
 
+
+
 * <span style='font-size:40px;'>&#128142;</span>**元素组合架构**：
-  *  <span style='font-size:30px;'>&#128165;</span>颜色：==红色==是血脉里永不褪色的赤诚。红色传承血脉，革命精神永存，主旋律坚定不移与党同心。
-  *  <span style='font-size:30px;'>&#128165;</span>字体：采用==邓体==-邓小平同志提名合肥工业大学校名的字体。
+  *  <span style='font-size:30px;'>&#128165;</span>颜色：`红色`是血脉里永不褪色的赤诚。红色传承血脉，革命精神永存，主旋律坚定不移与党同心。
+  *  <span style='font-size:30px;'>&#128165;</span>字体：采用`邓体`-邓小平同志提名合肥工业大学校名的字体。
   *  <span style='font-size:30px;'>&#128165;</span>齿轮：
     *  团结：一台机器之所以运转自如，关键在于齿轮。每个齿轮都是有凹有凸，运行的时候能够互相补足，从而产生动力。如果每个齿轮都是平滑如玉，完美无缺，机器就没法运转，因为齿轮之间互相不包容。
     *  协作精神：相互的密切配合，以已之长，补他人之短，齿距之间的咬合越密，运转速度越快越轻快，在圆滑的平面与直角之间,追求一种属于自己的发展之道。
@@ -199,7 +209,7 @@
 
 1. 页面右上角，点击Fork按钮 :yum:
 2. 打开Terminal，前提是安装好git
-3. `git clone https://github.com/YOURNAME/class-emblem-for-hfut-dynamic-engineering-mechanics-20.git`, 这行命令的==YOURNAME==替换为你的用户名
+3. `git clone https://github.com/YOURNAME/class-emblem-for-hfut-dynamic-engineering-mechanics-20.git`, 这行命令的`YOURNAME`替换为你的用户名
 4. `git remote add upstream https://github.com/A-pursuer/class-emblem-for-hfut-dynamic-engineering-mechanics-20.git`
 
 ```sh
