@@ -257,7 +257,7 @@ git push origin test //推送新分支到github上
 
 > * 心情：~~无比畅快，这辈子都不想再设计班徽了~~
 >
-> * 感受：写个README文件怎么也这么累:weary:, 觉得项目还不错可以给我点个小星星<span style='font-size:20px;'>&#11088;</span>，如果可以再fork一下就是对我最大的肯定 :thumbsup:. 
+> * 感受：写个README文件怎么也这么累:weary:, 觉得项目还不错可以给我点个小星星<span style='font-size:20px;'>&#11088;</span>，如果可以再fork一下就是对我最大的肯定 :thumbsup:。
 
 > * 感谢：在此感谢母校 [![](https://img.shields.io/badge/%E5%90%88%E8%82%A5%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6-%40hfut-blue?style=flat-square)](http://www.hfut.edu.cn/)的培养使我成长，也为 [![](https://img.shields.io/badge/%E5%B7%A5%E7%A8%8B%E5%8A%9B%E5%AD%A6%E7%B3%BB-%40hfut-orange/style=plastic)](http://em.hfut.edu.cn/) 打个广告，老师们丰富的教学经验和专业知识让我们在学习过程中倍感温暖和鼓舞，让我们充满信心和动力，在未来的路上继续深入学习和探索更多的知识领域。
 > * 展望：班徽设计的初衷是班里确实需要一个班徽给班级以凝聚力，奈何个人水平不济迟迟没能交出满意的答卷，如今设计已成，我也不关心是否会被采纳，只是回望一路走来自己真的成长了很多，我想这就足够了。也借着班徽的美好寓意，班里同学团结一致建设优秀班集体，立工业报国之志传承红色信仰，形成合力昂扬向前，就像初生的太阳一样，充满生机不断发光发热，祝班级的每一位同学前程似锦，我们都有美好的未来。
