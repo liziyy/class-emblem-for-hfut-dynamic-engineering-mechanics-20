@@ -12,7 +12,7 @@
 
 
 
-[![](https://img.shields.io/badge/%E5%90%88%E8%82%A5%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6-%40hfut-blue?style=flat-square)](hfut.edu.cn) [![](https://img.shields.io/badge/%E5%B7%A5%E7%A8%8B%E5%8A%9B%E5%AD%A6%E7%B3%BB-%40hfut-orange/style=plastic)](http://em.hfut.edu.cn/) [![](https://img.shields.io/badge/%E5%B7%A5%E4%BD%9C%E7%8E%AF%E5%A2%83-Photoshop%20and%20cad-orange)](https://www.adobe.com/products/photoshop.html?promoid=RBS7NL7F) [![](https://img.shields.io/badge/license-Apache%202-red)](https://www.apache.org/licenses/LICENSE-2.0)
+[![](https://img.shields.io/badge/%E5%90%88%E8%82%A5%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6-%40hfut-blue?style=flat-square)](http://www.hfut.edu.cn/) [![](https://img.shields.io/badge/%E5%B7%A5%E7%A8%8B%E5%8A%9B%E5%AD%A6%E7%B3%BB-%40hfut-orange/style=plastic)](http://em.hfut.edu.cn/) [![](https://img.shields.io/badge/%E5%B7%A5%E4%BD%9C%E7%8E%AF%E5%A2%83-Photoshop%20and%20cad-orange)](https://www.adobe.com/products/photoshop.html?promoid=RBS7NL7F) [![](https://img.shields.io/badge/license-Apache%202-red)](https://www.apache.org/licenses/LICENSE-2.0)
 
 
 
@@ -250,7 +250,7 @@ git push origin test //push test to github
 
 > * Mood：~~Relaxing，I will no longer design class emblem.~~
 > * Feelings：It‘s too tired to write README:weary: , If you think this project is no so bad , you can give me a little star<span style='font-size:20px;'>&#11088;</span> in the upper right corner of the page. It will be better that you can fork this repo, This is the greatest affirmation for me:thumbsup:.
-> * Thank you: I hereby thank my alma mater ![](https://img.shields.io/badge/%E5%90%88%E8%82%A5%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6-%40hfut-blue?style=flat-square) for bringing me up and advertising  [![](https://img.shields.io/badge/%E5%B7%A5%E7%A8%8B%E5%8A%9B%E5%AD%A6%E7%B3%BB-%40hfut-orange/style=plastic)](http://em.hfut.edu.cn/). The teachers' rich teaching experience and professional knowledge have made us feel warm and inspired during our learning process, and have filled us with confidence and motivation to continue to study and explore more fields of knowledge in the future.
+> * Thank you: I hereby thank my alma mater [![](https://img.shields.io/badge/%E5%90%88%E8%82%A5%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6-%40hfut-blue?style=flat-square)](http://www.hfut.edu.cn/) for bringing me up and advertising  [![](https://img.shields.io/badge/%E5%B7%A5%E7%A8%8B%E5%8A%9B%E5%AD%A6%E7%B3%BB-%40hfut-orange/style=plastic)](http://em.hfut.edu.cn/). The teachers' rich teaching experience and professional knowledge have made us feel warm and inspired during our learning process, and have filled us with confidence and motivation to continue to study and explore more fields of knowledge in the future.
 > * Outlook: The original intention of the class emblem design is that the class really needs a class emblem to provide cohesion to the class. However, due to poor personal skills, I have been unable to deliver satisfactory answers. Now that the design has been completed, I do not care whether it will be adopted or not. I just look back and see how much I have really grown along the way. I think this is enough. Also with the beautiful meaning of the class emblem, the students in the class unite to build an excellent class collective, establish the ambition of industrial packaging, inherit the red faith, form a joint force to move forward, just like the newborn sun, full of vitality and constantly glowing heat. I wish every student in the class a bright future, and we all have a bright future.
 
 
