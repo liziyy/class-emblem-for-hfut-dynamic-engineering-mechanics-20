@@ -1,6 +1,6 @@
 <div align="right">
     language : English /
-    <a title="Chinese" herf="https://github.com/A-pursuer/class-emblem-for-hfut-dynamic-engineering-mechanics-20/blob/main/README_ZH.md">中文</a>
+    <a title="Chinese" href="https://github.com/A-pursuer/class-emblem-for-hfut-dynamic-engineering-mechanics-20/blob/main/README_ZH.md">中文</a>
 </div>
 
 
