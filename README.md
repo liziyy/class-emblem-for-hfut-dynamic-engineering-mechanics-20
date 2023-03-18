@@ -2,6 +2,10 @@
     language : English /
     <a title="Chinese" herf="https://github.com/A-pursuer/class-emblem-for-hfut-dynamic-engineering-mechanics-20/blob/main/README_ZH.md">中文</a>
 </div>
+
+
+
+
 <h1 align="center"> The design of Mechanics Class Emblem </h1>
 
 
