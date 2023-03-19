@@ -237,7 +237,7 @@ git push origin test //推送新分支到github上
 
 
 
-*  提交你[宝贵的意见](https://github.com/A-pursuer/class-emblem-for-hfut-dynamic-engineering-mechanics-20/issues)
+*  提交您[宝贵的意见](https://github.com/A-pursuer/class-emblem-for-hfut-dynamic-engineering-mechanics-20/issues)
 
 
 
